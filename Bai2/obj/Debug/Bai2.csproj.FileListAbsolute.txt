@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\Bai2\bin\Debug\Bai2.exe
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\Bai2\bin\Debug\Bai2.pdb
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\Bai2\obj\Debug\Bai2.exe
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\Bai2\obj\Debug\Bai2.pdb

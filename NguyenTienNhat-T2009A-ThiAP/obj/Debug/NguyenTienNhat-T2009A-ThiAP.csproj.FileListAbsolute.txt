@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\NguyenTienNhat-T2009A-ThiAP\bin\Debug\NguyenTienNhat_T2009A_ThiAP.exe
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\NguyenTienNhat-T2009A-ThiAP\bin\Debug\NguyenTienNhat_T2009A_ThiAP.pdb
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\NguyenTienNhat-T2009A-ThiAP\obj\Debug\NguyenTienNhat-T2009A-ThiAP.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\NguyenTienNhat-T2009A-ThiAP\obj\Debug\NguyenTienNhat-T2009A-ThiAP.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\NguyenTienNhat-T2009A-ThiAP\obj\Debug\NguyenTienNhat_T2009A_ThiAP.exe
+C:\Users\NHAT\RiderProjects\NguyenTienNhat-T2009A-ThiAP\NguyenTienNhat-T2009A-ThiAP\obj\Debug\NguyenTienNhat_T2009A_ThiAP.pdb
